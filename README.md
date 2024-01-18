@@ -15,3 +15,5 @@ Functions used
 - scale
 - normalize
 - dot
+
+It's not much, but [check it out!](https://ojube002.github.io/2d-vector-math/)
